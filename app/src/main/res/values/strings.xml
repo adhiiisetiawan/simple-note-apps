@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple Note Apps</string>
+    <string name="new_file">New File</string>
+    <string name="open_file">Open File</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
 </resources>
